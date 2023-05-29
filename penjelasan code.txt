@@ -1,0 +1,7 @@
+Dalam implementasi, kita membuat objek `universitas_xyz` yang merupakan objek dari kelas `Universitas` dengan nama "XYZ University". Kemudian, kita membuat objek `jurusan_ti` yang merupakan objek dari kelas `Jurusan` dengan nama "Teknik Informatika" dan menambahkannya ke dalam objek `universitas_xyz`.
+
+Selanjutnya, kita membuat objek `mahasiswa_1` yang merupakan objek dari kelas `Mahasiswa` dengan nama "Kalian masing", NIM "12345678", dan objek `jurusan_ti` sebagai jurusannya. Kemudian, objek `mahasiswa_1` ditambahkan ke dalam daftar mahasiswa pada objek `jurusan_ti`.
+
+Terakhir, kita menampilkan daftar jurusan yang ada di objek `universitas_xyz` dengan memanggil metode `tampilkan_daftar_jurusan()`. Kemudian, kita menampilkan daftar mahasiswa yang terdaftar dalam objek `jurusan_ti` dengan memanggil metode `tampilkan_daftar_mahasiswa()`.
+
+Anda dapat menambahkan lebih banyak metode atau atribut sesuai kebutuhan dalam implementasi ini. Selain itu, Anda juga dapat melakukan validasi input atau memperluas fungsionalitas program sesuai kebutuhan.
